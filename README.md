@@ -1,7 +1,7 @@
 # CF-Legacy-Proxy
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020.svg?logo=Cloudflare&logoColor=white)
-![Version](https://img.shields.io/badge/version-v1.0.0-brightgreen.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 
 让不支持现代 TLS/SSL 加密协议的老旧设备（如塞班系统、早期功能机、复古 PDA 等）能够重新访问现代 HTTPS 网站的 Cloudflare Worker 反向代理脚本。
 
