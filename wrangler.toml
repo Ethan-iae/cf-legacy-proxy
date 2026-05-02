@@ -1,0 +1,7 @@
+name = "cf-legacy-proxy"
+main = "cf-legacy-proxy.js"
+compatibility_date = "2024-05-02"
+
+# 配置你需要反代的源站域名
+[vars]
+TARGET_DOMAIN = "example.com"
